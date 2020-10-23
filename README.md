@@ -2,7 +2,7 @@
 
 this is just a simple api with auth that can add or read your transaction notes
 
-### before you run this project, please install this following module :
+### before you run this project, please install this following framework and module :
  - express
  - body-parser
  - lowdb
